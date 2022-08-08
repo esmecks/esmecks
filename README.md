@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on upgrading my coding skills
+- 🌱 I’m currently learning more about program algorithms
+- ⚡ Fun fact: I'd love to use my coding and algorithm knowledge to promote my writing passion project
+
 <!--
 **esmecks/esmecks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
